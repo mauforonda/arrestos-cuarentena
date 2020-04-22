@@ -1,2 +1,3 @@
-Datos de arrestos durante la cuarentena en Bolivia, reportados por la Defensoría del Pueblo
+Datos de arrestos durante la cuarentena en Bolivia, reportados por la Defensoría del Pueblo.
+
 [[https://www.defensoria.gob.bo/covid-19][Fuente]]
