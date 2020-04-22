@@ -35,7 +35,7 @@ def get_reporte(dom):
   return data
 
 def save_csv(file_path, reports):
-  header = ['arrestos_femenino', 'arrestos_masculino', 'arrestos_no_especifica', 'arrestos_totales', 'liberados_femenino', 'liberados_masculino', 'liberados_no_especifica', 'liberados_totales', 'siguen_detenidos_femenino', 'siguen_detenidos_masculino', 'siguen_detenidos_no_especifica', 'siguen_detenidos_totales']
+  header = ['fecha', 'arrestos_femenino', 'arrestos_masculino', 'arrestos_no_especifica', 'arrestos_totales', 'liberados_femenino', 'liberados_masculino', 'liberados_no_especifica', 'liberados_totales', 'siguen_detenidos_femenino', 'siguen_detenidos_masculino', 'siguen_detenidos_no_especifica', 'siguen_detenidos_totales']
   with open(file_path, 'w+') as f:
     writer = csv.writer(f)
     writer.writerow(header)

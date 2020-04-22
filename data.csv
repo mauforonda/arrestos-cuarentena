@@ -1,4 +1,4 @@
-arrestos_femenino,arrestos_masculino,arrestos_no_especifica,arrestos_totales,liberados_femenino,liberados_masculino,liberados_no_especifica,liberados_totales,siguen_detenidos_femenino,siguen_detenidos_masculino,siguen_detenidos_no_especifica,siguen_detenidos_totales
+fecha,arrestos_femenino,arrestos_masculino,arrestos_no_especifica,arrestos_totales,liberados_femenino,liberados_masculino,liberados_no_especifica,liberados_totales,siguen_detenidos_femenino,siguen_detenidos_masculino,siguen_detenidos_no_especifica,siguen_detenidos_totales
 2020-03-22,25,611,197,833,25,609,197,831,0,2,0,2
 2020-03-23,57,73,937,1067,57,68,926,1051,0,5,11,16
 2020-03-24,16,215,1033,1264,16,215,1026,1257,0,0,7,7
